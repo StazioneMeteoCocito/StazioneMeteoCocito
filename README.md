@@ -13,6 +13,7 @@ Source Code for the weather station situated at [Liceo Cocito](https://liceococi
 |Server|[`server`](https://github.com/StazioneMeteoCocito/server)|This Web App pulls git weather data, stores it and allows for retrieval and plotting of archival and current data|php (html,css,js). It also includes a telegram bot|REST API|
 |Neon display|[`retroDisplay`](https://github.com/StazioneMeteoCocito/retroDisplay)|A simple neon display that shows current data. Ideal for small 
 |Documentation|[`documents`](https://github.com/StazioneMeteoCocito/documents)|The presetation papers of the project|LaTeX||
+|Terminal Client|[`clicitow`](https://github.com/StazioneMeteoCocito/clicitow)|A TUI client which allows browsing of latest and historical data and hardware reports in a terminal or teletype.|C||
 
 
 > 2021, Mattia Mascarello, Lorenzo Dellapiana, Luca Biello, The MIT License
