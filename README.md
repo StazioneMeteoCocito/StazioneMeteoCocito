@@ -15,5 +15,6 @@ Source Code for the weather station situated at [Liceo Cocito](https://liceococi
 |Documentation|[`documents`](https://github.com/StazioneMeteoCocito/documents)|The presetation papers of the project|LaTeX||
 |Terminal Client|[`clicitow`](https://github.com/StazioneMeteoCocito/clicitow)|A TUI client which allows browsing of latest and historical data and hardware reports in a terminal or teletype.|C||
 |Twitter Bot|[`twitterBot`](https://github.com/StazioneMeteoCocito/twitterBot)|Twitter bot of the station, providing regular updates at [@MeteoCocito](https://twitter.com/MeteoCocito). Recent bullettins are also stored.|Python3||
+|Python3 library|[`meteoCocitoPy`](https://github.com/StazioneMeteoCocito/meteoCocitoPy)|Python library for accessing and manipulating data from the station.|Python3||
 > 2021, Mattia Mascarello, Lorenzo Dellapiana, Luca Biello, The MIT License
 
