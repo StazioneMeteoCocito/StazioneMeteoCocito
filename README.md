@@ -21,5 +21,7 @@ Source Code for the weather station situated at [Liceo Cocito](https://liceococi
 |Python3 library|[`meteoCocitoPy`](https://github.com/StazioneMeteoCocito/meteoCocitoPy)|Python library for accessing and manipulating data from the station.|Python3||
 |Instagram Grapher Bot|[`instagramGrapher`](https://github.com/StazioneMeteoCocito/instagramGrapher)|Bot graphing daily data and posting it to Instagram with averages|Python3||
 
+![](https://raw.githubusercontent.com/StazioneMeteoCocito/instagramGrapher/main/day.jpg)
+
 > 2021, Mattia Mascarello, Lorenzo Dellapiana, Luca Biello, The MIT License
 
