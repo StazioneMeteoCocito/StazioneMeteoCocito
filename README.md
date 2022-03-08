@@ -7,7 +7,8 @@
 Source Code for the weather station situated at [Liceo Cocito](https://liceococito.edu.it) : station, server and display is hosted in the following repositories
 
 <a href="https://t.me/StazioneMeteoCocitoBot"><img src="https://img.shields.io/badge/@StazioneMeteoCocitoBot-Telegram-blue.svg" alt="@matmasak on telegram"></a>
- 
+<a href="https://twitter.com/Meteococito"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MeteoCocito"></a>
+<a href="https://www.instagram.com/meteococito/"><img src ="https://img.shields.io/badge/Instagram-meteococito-orange" alt="Instagram"></a>
 ## Overview
 
 |Component|Repository|Description|Languages|Further developments|
